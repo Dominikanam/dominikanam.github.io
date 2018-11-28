@@ -1,2 +1,2 @@
 # projektrepo
-https://github.com/Dominikanam/projektrepo
+https://dominikanam.github.io/
