@@ -22,5 +22,6 @@ h1 {
 
 p {
 	padding: 10px;
+	display: -ms-flexbox;
 	display: flex;
 }
