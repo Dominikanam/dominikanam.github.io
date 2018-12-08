@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+  margin: 0 auto;
+  padding: 0;
+}
+
+body {
+  background: url(http://www.ramadadover.co.uk/wp-content/uploads/2018/05/CHRISTMAS-HEADER-1-1920x435.png) no-repeat;
+  background-size: cover;
+  text-align: center;
+  width: 30%;
+  color: purple;
+  font-size: 10px;
+  margin-top: 400px;
+  font-size: 20px;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+p {
+  padding: 10px;
+  display: -ms-flexbox;
+  display: flex;
+}
+/*# sourceMappingURL=style.css.map */
